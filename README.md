@@ -93,13 +93,20 @@ This project was designed in **Microsoft Power BI** to deliver insights into **m
 
 ## 📸 Dashboard Preview
 
-**Overview Page**
-[![Overview Page](https://1drv.ms/i/c/0a9c8372bc9e9c41/ETFs_Q0yjhxGoc8N8wbD0MoB8Isk1QUuc2oBFxdcVda3Jw?e=d0gs66)]
-**Camera Resolution Details**
-![Price Analysis (INR) Page](https://1drv.ms/i/c/0a9c8372bc9e9c41/EYyXokQU_RlKttyvtkPN1B8Bu_AAqjEazGWXeYjWRAYEeQ?e=OUofkA)
-![Price Analysis (INR) Page](images/price_analysis_inr.png)
-![Price Analysis (AED) Page](images/price_analysis_aed.png)
-![Feature vs Price Comparison Page](images/feature_vs_price.png)
+1. **Overview**  
+   [![Overview](https://1drv.ms/i/c/0a9c8372bc9e9c41/EaVVqWweLYZEhaiK1_TFSAwBxVTC1NHanfkceHK_zlFhvQ?e=EbmeYw)](https://1drv.ms/i/c/0a9c8372bc9e9c41/EaVVqWweLYZEhaiK1_TFSAwBxVTC1NHanfkceHK_zlFhvQ?e=EbmeYw)
+
+2. **Camera Resolution Details**  
+   [![Camera Resolution Details](https://1drv.ms/i/c/0a9c8372bc9e9c41/EZ6PThOvb0lInar52JqTl18BFmiLz9HVL_T1GeggLz_r0w?e=10bwry)](https://1drv.ms/i/c/0a9c8372bc9e9c41/EZ6PThOvb0lInar52JqTl18BFmiLz9HVL_T1GeggLz_r0w?e=10bwry)
+
+3. **Price Analysis**  
+   [![Price Analysis](https://1drv.ms/i/c/0a9c8372bc9e9c41/ESGhpVzBeUJIuSq1BeDXK3cB53V2CMzcYj1WWTmJRn4pCQ?e=dzBvHp)](https://1drv.ms/i/c/0a9c8372bc9e9c41/ESGhpVzBeUJIuSq1BeDXK3cB53V2CMzcYj1WWTmJRn4pCQ?e=dzBvHp)
+
+4. **Feature V/S Price Comparison**  
+   [![Feature V/S Price Comparison](https://1drv.ms/i/c/0a9c8372bc9e9c41/EeQGVTCWU05GkFXVjRAuTnEBawIlDNib7ghV9h9IJbUR1A?e=vMYuO6)](https://1drv.ms/i/c/0a9c8372bc9e9c41/EeQGVTCWU05GkFXVjRAuTnEBawIlDNib7ghV9h9IJbUR1A?e=vMYuO6)
+
+5. **Company-wise Average Metrics (Price | RAM | Weight)**  
+   [![Company-wise Metrics](https://1drv.ms/i/c/0a9c8372bc9e9c41/EUUtV8Wo_tBPjVLOXYc2pgQBPRIG6osA9NpWyAShD1SCPw?e=8NrEWA)](https://1drv.ms/i/c/0a9c8372bc9e9c41/EUUtV8Wo_tBPjVLOXYc2pgQBPRIG6osA9NpWyAShD1SCPw?e=8NrEWA)
 
 
 ## 📁 Dataset
