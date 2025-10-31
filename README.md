@@ -93,8 +93,10 @@ This project was designed in **Microsoft Power BI** to deliver insights into **m
 
 ## 📸 Dashboard Preview
 
-![Overview Page]([https://1drv.ms/i/c/0a9c8372bc9e9c41/EYyXokQU_RlKttyvtkPN1B8Bu_AAqjEazGWXeYjWRAYEeQ?e=OUofkA](https://1drv.ms/i/c/0a9c8372bc9e9c41/ETFs_Q0yjhxGoc8N8wbD0MoB8Isk1QUuc2oBFxdcVda3Jw?e=d0gs66)
-
+**Overview Page**
+![Overview Page](https://1drv.ms/i/c/0a9c8372bc9e9c41/ETFs_Q0yjhxGoc8N8wbD0MoB8Isk1QUuc2oBFxdcVda3Jw?e=d0gs66)
+**Camera Resolution Details**
+![Price Analysis (INR) Page](https://1drv.ms/i/c/0a9c8372bc9e9c41/EYyXokQU_RlKttyvtkPN1B8Bu_AAqjEazGWXeYjWRAYEeQ?e=OUofkA)
 ![Price Analysis (INR) Page](images/price_analysis_inr.png)
 ![Price Analysis (AED) Page](images/price_analysis_aed.png)
 ![Feature vs Price Comparison Page](images/feature_vs_price.png)
