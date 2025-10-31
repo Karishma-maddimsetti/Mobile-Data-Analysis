@@ -108,7 +108,6 @@ This project was designed in **Microsoft Power BI** to deliver insights into **m
 5. **Company-wise Average Metrics (Price | RAM | Weight)**  
    [![Company-wise Metrics](https://1drv.ms/i/c/0a9c8372bc9e9c41/EUUtV8Wo_tBPjVLOXYc2pgQBPRIG6osA9NpWyAShD1SCPw?e=8NrEWA)](https://1drv.ms/i/c/0a9c8372bc9e9c41/EUUtV8Wo_tBPjVLOXYc2pgQBPRIG6osA9NpWyAShD1SCPw?e=8NrEWA)
 
-
 ## 📁 Dataset
 
 The dataset includes attributes such as:
@@ -119,7 +118,6 @@ The dataset includes attributes such as:
 * Front & Back Camera Specifications
 * Processor, Screen Size, Battery Capacity
 * Price (INR, USD, AED, PKR, CNY)
-
 
 ## 💡 Future Enhancements
 
@@ -132,5 +130,7 @@ The dataset includes attributes such as:
 ## 👩‍💻 Created by
 
 **Karishma Bhavani Maddimsetti**
-[LinkedIn Profile](www.linkedin.com/in/karishma-bhavani-maddimsetti-petroleumengineer)
+🎓 Petroleum Engineer | Oil & Gas Data Analyst
+📍 Passionate about data visualization, analytics, and business insights.
+🔗[ LinkedIn Profile](https://www.linkedin.com/in/karishma-bhavani-maddimsetti-petroleumengineer)
 
